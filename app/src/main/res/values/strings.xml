@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DA</string>
+    <string name="digital_attendance_4">Digital Attendance 4</string>
+    <string name="settings">Settings</string>
+    <string name="generate_table">Get Table</string>
+    <string name="report">Report</string>
+    <string name="special">Special</string>
+    <string name="back">Save</string>
+
+    <string-array name="Subjects">
+        <item>Cost Management</item>
+        <item>Advanced Accounting</item>
+        <item>Auditing and Secretarial Practices</item>
+        <item>Security Analysis and Portfolio Management</item>
+    </string-array>
+</resources>
